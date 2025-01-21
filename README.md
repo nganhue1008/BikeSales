@@ -5,6 +5,7 @@
 Toman Bikeshare seeks to determine whether increasing subscription prices for the upcoming year without causing a significant loss in customer base is feasible. The company requires a dashboard that provides key performance indicators (KPIs) to analyze revenue, profitability trends, seasonal variations, and rider demographics to aid in this decision. 
 
 ## Findings 
+![bike_shop_dashboard](https://github.com/user-attachments/assets/ff8b9a47-90af-4f7b-a509-735ae1f05a38)
 
 ### Hourly revenue analysis 
 
