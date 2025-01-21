@@ -5,7 +5,9 @@
 Toman Bikeshare seeks to determine whether increasing subscription prices for the upcoming year without causing a significant loss in customer base is feasible. The company requires a dashboard that provides key performance indicators (KPIs) to analyze revenue, profitability trends, seasonal variations, and rider demographics to aid in this decision. 
 
 ## Findings 
+
 ### Hourly revenue analysis 
+
 The dashboard highlights hourly revenue data, revealing the most profitable hours occur during midday and early evening (10:00 to 15:00). Days like Wednesday and Friday also show notably higher sales, indicating variable profitability across the week. These insights can guide operational adjustments to maximize revenue during peak hours.
 
 ### Profit and revenue trends 
